@@ -1,0 +1,15 @@
+{
+  "name": "squirrels_profiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "sq-lib": "github:sovlet/sq-lib"
+  }
+}
