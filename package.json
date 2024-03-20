@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "better-sqlite3": "^7.6.2",
+    "better-sqlite3": "^9.4.3",
     "sq-lib": "github:sovlet/sq-lib"
   }
 }
